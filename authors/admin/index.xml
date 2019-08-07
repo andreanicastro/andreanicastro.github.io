@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Nicastro</title>
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Nicastro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>Andrea Nicastro</title>
+      <link>http://localhost:1313/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD candidate at &lt;a href=&#34;http://www.imperial.ac.uk/dyson-robotics-lab&#34; target=&#34;_blank&#34;&gt;Dyson Robotics Lab&lt;/a&gt; at Imperial College London. I am supervised by &lt;a href=&#34;http://wp.doc.ic.ac.uk/sleutene/&#34; target=&#34;_blank&#34;&gt;Dr. Leutenegger&lt;/a&gt;. Before that I earned my M.Sc. in Artificial Intelligence and Robotics at La Sapienza in Rome and did my undergrad in Computer Engineering at Roma Tre in Rome.&lt;/p&gt;
+
+&lt;p&gt;My research interest is at the intersection between 3D Reconstruction and Deep Learning. I am currently exploring how to augment traditional 3D reconstruction and mapping algorithm with Deep Learning.&lt;/p&gt;
+
+&lt;p&gt;Whenever I am not at my desk I spend time climbing and camping around rainy UK.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
